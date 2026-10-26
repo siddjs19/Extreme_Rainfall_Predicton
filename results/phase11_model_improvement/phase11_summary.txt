@@ -1,0 +1,30 @@
+PHASE 11: LEAKAGE-FREE MODEL IMPROVEMENT SUMMARY
+============================================================
+
+Dataset: D:\research\WeatherGPT-Research\data\merged_imd_era5_pune_features.csv
+Training samples: 1454
+Testing samples: 364
+Number of features: 27
+
+Target: Tomorrow's rainfall event
+Leakage columns excluded: rainfall_mm, target_rainfall_tomorrow, target_heavy_rain
+
+Models evaluated:
+- Baseline Random Forest
+- Class Weighted Random Forest
+- Oversampled Random Forest
+
+Best model based on Heavy/Extreme recall:
+Class Weighted Random Forest
+
+MODEL COMPARISON
+------------------------------------------------------------
+                       model  accuracy  macro_f1  weighted_f1  high_risk_precision  high_risk_recall  high_risk_f1  high_risk_false_negatives
+Class Weighted Random Forest  0.648352  0.535514     0.637153             0.802083              0.77      0.785714                         23
+   Oversampled Random Forest  0.659341  0.534776     0.644371             0.826087              0.76      0.791667                         24
+      Baseline Random Forest  0.681319  0.559046     0.661394             0.857143              0.72      0.782609                         28
+
+Interpretation:
+The primary objective is to reduce missed Heavy and Extreme Rainfall events.
+The corrected experiment excludes future information and rainfall values that directly define the target.
+Results should be compared against Phase 10 only after confirming identical target definitions.

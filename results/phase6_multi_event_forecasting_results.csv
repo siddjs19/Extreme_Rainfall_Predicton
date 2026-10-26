@@ -1,0 +1,2 @@
+Model,Number of Features,Number of Classes,Accuracy,Macro F1 Score,Weighted F1 Score
+IMD + ERA5 Leakage-Free Multi-Event Forecasting,28,5,0.6620879120879121,0.5605676844408002,0.6544497645170263

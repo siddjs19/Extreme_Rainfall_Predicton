@@ -1,0 +1,37 @@
+PHASE 10: MODEL EXPLAINABILITY SUMMARY
+============================================================
+
+Regression Performance
+MAE: 18.9895
+RMSE: 33.6015
+R2: 0.7238
+
+Classification Performance
+Accuracy: 0.6621
+Macro F1: 0.5625
+
+Top Regression Features
+- rainfall_mm
+- pune_dewpoint_mean_c
+- pune_rh_mean_pct
+- pune_dewpoint_depression_mean_c
+- pune_pressure_min_pa
+- rainfall_lag_1
+- rainfall_lag_7
+- pune_temp_min_c
+- day_of_year
+- pune_pressure_mean_pa
+
+Top Classification Features
+- pune_pressure_mean_pa
+- rainfall_mm
+- pune_rh_mean_pct
+- rainfall_lag_2
+- pune_pressure_min_pa
+- rain_today_flag
+- pune_dewpoint_depression_mean_c
+- rainfall_lag_1
+- month
+- pune_temp_min_c
+
+Heavy/Extreme false negatives: 22

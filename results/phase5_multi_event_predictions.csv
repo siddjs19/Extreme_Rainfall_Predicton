@@ -1,0 +1,365 @@
+date,rainfall_mm,rainfall_event,predicted_event
+2025-01-01,0.0,Dry,Dry
+2025-01-02,0.0,Dry,Dry
+2025-01-03,0.0,Dry,Dry
+2025-01-04,0.0,Dry,Dry
+2025-01-05,0.0,Dry,Dry
+2025-01-06,0.0,Dry,Dry
+2025-01-07,0.0,Dry,Dry
+2025-01-08,0.0,Dry,Dry
+2025-01-09,0.0,Dry,Dry
+2025-01-10,0.0,Dry,Dry
+2025-01-11,0.0,Dry,Dry
+2025-01-12,0.0,Dry,Dry
+2025-01-13,0.0,Dry,Dry
+2025-01-14,0.0,Dry,Dry
+2025-01-15,0.0,Dry,Dry
+2025-01-16,0.0,Dry,Dry
+2025-01-17,0.0,Dry,Dry
+2025-01-18,0.0,Dry,Dry
+2025-01-19,0.0,Dry,Dry
+2025-01-20,0.0,Dry,Dry
+2025-01-21,0.0,Dry,Dry
+2025-01-22,0.0,Dry,Dry
+2025-01-23,0.0,Dry,Dry
+2025-01-24,0.0,Dry,Dry
+2025-01-25,0.0,Dry,Dry
+2025-01-26,0.0,Dry,Dry
+2025-01-27,0.0,Dry,Dry
+2025-01-28,0.0,Dry,Dry
+2025-01-29,0.0,Dry,Dry
+2025-01-30,0.0,Dry,Dry
+2025-01-31,0.0,Dry,Dry
+2025-02-01,0.0,Dry,Dry
+2025-02-02,0.0,Dry,Dry
+2025-02-03,0.0,Dry,Dry
+2025-02-04,0.0,Dry,Dry
+2025-02-05,0.0,Dry,Dry
+2025-02-06,0.0,Dry,Dry
+2025-02-07,0.0,Dry,Dry
+2025-02-08,0.0,Dry,Dry
+2025-02-09,0.0,Dry,Dry
+2025-02-10,0.0,Dry,Dry
+2025-02-11,0.0,Dry,Dry
+2025-02-12,0.0,Dry,Dry
+2025-02-13,0.0,Dry,Dry
+2025-02-14,0.0,Dry,Dry
+2025-02-15,0.0,Dry,Dry
+2025-02-16,0.0,Dry,Dry
+2025-02-17,0.0,Dry,Dry
+2025-02-18,0.0,Dry,Dry
+2025-02-19,0.0,Dry,Dry
+2025-02-20,0.0,Dry,Dry
+2025-02-21,0.7360534,Light Rain,Light Rain
+2025-02-22,0.0,Dry,Dry
+2025-02-23,0.0,Dry,Dry
+2025-02-24,0.0,Dry,Dry
+2025-02-25,0.0,Dry,Dry
+2025-02-26,0.0,Dry,Dry
+2025-02-27,0.0,Dry,Dry
+2025-02-28,0.0,Dry,Dry
+2025-03-01,0.0,Dry,Dry
+2025-03-02,0.0,Dry,Dry
+2025-03-03,0.0,Dry,Dry
+2025-03-04,0.0,Dry,Dry
+2025-03-05,0.0,Dry,Dry
+2025-03-06,0.0,Dry,Dry
+2025-03-07,0.0,Dry,Dry
+2025-03-08,0.0,Dry,Dry
+2025-03-09,0.0,Dry,Dry
+2025-03-10,0.0,Dry,Dry
+2025-03-11,0.0,Dry,Dry
+2025-03-12,0.0,Dry,Dry
+2025-03-13,0.0,Dry,Dry
+2025-03-14,0.0,Dry,Dry
+2025-03-15,0.0,Dry,Dry
+2025-03-16,0.0,Dry,Dry
+2025-03-17,0.0,Dry,Dry
+2025-03-18,0.0,Dry,Dry
+2025-03-19,0.8331599,Light Rain,Light Rain
+2025-03-20,0.0,Dry,Dry
+2025-03-21,10.245951,Light Rain,Light Rain
+2025-03-22,0.0,Dry,Dry
+2025-03-23,0.0,Dry,Dry
+2025-03-24,0.0,Dry,Dry
+2025-03-25,6.1942716,Light Rain,Light Rain
+2025-03-26,24.953556,Moderate Rain,Moderate Rain
+2025-03-27,31.247786,Moderate Rain,Moderate Rain
+2025-03-28,0.0,Dry,Dry
+2025-03-29,0.0,Dry,Dry
+2025-03-30,4.0754294,Light Rain,Light Rain
+2025-03-31,11.779573,Light Rain,Light Rain
+2025-04-01,20.693956,Moderate Rain,Moderate Rain
+2025-04-02,38.02587,Moderate Rain,Moderate Rain
+2025-04-03,46.04732,Moderate Rain,Moderate Rain
+2025-04-04,35.06747,Moderate Rain,Moderate Rain
+2025-04-05,25.60955,Moderate Rain,Moderate Rain
+2025-04-06,11.172597,Light Rain,Light Rain
+2025-04-07,0.45336148,Light Rain,Light Rain
+2025-04-08,17.950043,Moderate Rain,Moderate Rain
+2025-04-09,27.102169,Moderate Rain,Moderate Rain
+2025-04-10,12.093022,Light Rain,Light Rain
+2025-04-11,7.720279,Light Rain,Light Rain
+2025-04-12,23.918615,Moderate Rain,Moderate Rain
+2025-04-13,2.6627004,Light Rain,Light Rain
+2025-04-14,5.595001,Light Rain,Light Rain
+2025-04-15,0.0,Dry,Dry
+2025-04-16,4.220623,Light Rain,Light Rain
+2025-04-17,10.554873,Light Rain,Light Rain
+2025-04-18,0.3680267,Light Rain,Light Rain
+2025-04-19,39.204376,Moderate Rain,Moderate Rain
+2025-04-20,1.8395604,Light Rain,Light Rain
+2025-04-21,21.455835,Moderate Rain,Moderate Rain
+2025-04-22,6.8636355,Light Rain,Light Rain
+2025-04-23,18.366995,Moderate Rain,Moderate Rain
+2025-04-24,24.04542,Moderate Rain,Moderate Rain
+2025-04-25,6.1963553,Light Rain,Light Rain
+2025-04-26,23.435772,Moderate Rain,Moderate Rain
+2025-04-27,59.5975,Moderate Rain,Moderate Rain
+2025-04-28,54.78708,Moderate Rain,Moderate Rain
+2025-04-29,3.181149,Light Rain,Light Rain
+2025-04-30,0.0,Dry,Dry
+2025-05-01,0.0,Dry,Dry
+2025-05-02,0.0,Dry,Dry
+2025-05-03,18.173279,Moderate Rain,Moderate Rain
+2025-05-04,0.0,Dry,Dry
+2025-05-05,4.0,Light Rain,Light Rain
+2025-05-06,14.014438,Light Rain,Light Rain
+2025-05-07,35.276318,Moderate Rain,Moderate Rain
+2025-05-08,64.09169,Moderate Rain,Moderate Rain
+2025-05-09,23.14843,Moderate Rain,Moderate Rain
+2025-05-10,48.767384,Moderate Rain,Moderate Rain
+2025-05-11,5.881625,Light Rain,Light Rain
+2025-05-12,16.172007,Moderate Rain,Moderate Rain
+2025-05-13,57.21725,Moderate Rain,Moderate Rain
+2025-05-14,145.07893,Extreme Rain,Heavy Rain
+2025-05-15,29.50328,Moderate Rain,Moderate Rain
+2025-05-16,61.713314,Moderate Rain,Moderate Rain
+2025-05-17,27.911879,Moderate Rain,Moderate Rain
+2025-05-18,39.140503,Moderate Rain,Moderate Rain
+2025-05-19,62.732494,Moderate Rain,Moderate Rain
+2025-05-20,85.908615,Heavy Rain,Heavy Rain
+2025-05-21,175.08284,Extreme Rain,Extreme Rain
+2025-05-22,134.05412,Extreme Rain,Extreme Rain
+2025-05-23,245.64247,Extreme Rain,Extreme Rain
+2025-05-24,110.35817,Heavy Rain,Heavy Rain
+2025-05-25,149.57167,Extreme Rain,Extreme Rain
+2025-05-26,324.7414,Extreme Rain,Extreme Rain
+2025-05-27,240.5447,Extreme Rain,Extreme Rain
+2025-05-28,114.79919,Heavy Rain,Extreme Rain
+2025-05-29,128.71371,Extreme Rain,Extreme Rain
+2025-05-30,89.76652,Heavy Rain,Heavy Rain
+2025-05-31,5.090355,Light Rain,Moderate Rain
+2025-06-01,23.087812,Moderate Rain,Moderate Rain
+2025-06-02,34.91925,Moderate Rain,Moderate Rain
+2025-06-03,36.43363,Moderate Rain,Moderate Rain
+2025-06-04,40.24524,Moderate Rain,Moderate Rain
+2025-06-05,47.46794,Moderate Rain,Moderate Rain
+2025-06-06,35.788826,Moderate Rain,Moderate Rain
+2025-06-07,33.759686,Moderate Rain,Moderate Rain
+2025-06-08,61.166584,Moderate Rain,Moderate Rain
+2025-06-09,65.52968,Heavy Rain,Heavy Rain
+2025-06-10,20.081968,Moderate Rain,Moderate Rain
+2025-06-11,7.016292,Light Rain,Moderate Rain
+2025-06-12,146.92055,Extreme Rain,Extreme Rain
+2025-06-13,289.8254,Extreme Rain,Extreme Rain
+2025-06-14,135.97209,Extreme Rain,Extreme Rain
+2025-06-15,176.10793,Extreme Rain,Extreme Rain
+2025-06-16,192.03862,Extreme Rain,Extreme Rain
+2025-06-17,104.89845,Heavy Rain,Heavy Rain
+2025-06-18,79.82133,Heavy Rain,Heavy Rain
+2025-06-19,232.28535,Extreme Rain,Extreme Rain
+2025-06-20,183.82646,Extreme Rain,Extreme Rain
+2025-06-21,82.65886,Heavy Rain,Heavy Rain
+2025-06-22,90.054955,Heavy Rain,Heavy Rain
+2025-06-23,114.289154,Heavy Rain,Heavy Rain
+2025-06-24,183.51006,Extreme Rain,Extreme Rain
+2025-06-25,163.98026,Extreme Rain,Extreme Rain
+2025-06-26,135.0,Extreme Rain,Extreme Rain
+2025-06-27,92.25579,Heavy Rain,Heavy Rain
+2025-06-28,94.306885,Heavy Rain,Heavy Rain
+2025-06-29,85.34272,Heavy Rain,Heavy Rain
+2025-06-30,48.233227,Moderate Rain,Moderate Rain
+2025-07-01,90.84783,Heavy Rain,Heavy Rain
+2025-07-02,128.81699,Extreme Rain,Extreme Rain
+2025-07-03,195.3322,Extreme Rain,Extreme Rain
+2025-07-04,108.66089,Heavy Rain,Heavy Rain
+2025-07-05,89.650085,Heavy Rain,Heavy Rain
+2025-07-06,166.49503,Extreme Rain,Extreme Rain
+2025-07-07,167.67912,Extreme Rain,Extreme Rain
+2025-07-08,72.750374,Heavy Rain,Heavy Rain
+2025-07-09,91.224686,Heavy Rain,Heavy Rain
+2025-07-10,61.38778,Moderate Rain,Moderate Rain
+2025-07-11,30.935612,Moderate Rain,Moderate Rain
+2025-07-12,61.62202,Moderate Rain,Moderate Rain
+2025-07-13,48.740383,Moderate Rain,Moderate Rain
+2025-07-14,50.142426,Moderate Rain,Moderate Rain
+2025-07-15,131.39377,Extreme Rain,Extreme Rain
+2025-07-16,173.77948,Extreme Rain,Extreme Rain
+2025-07-17,81.07797,Heavy Rain,Heavy Rain
+2025-07-18,96.05248,Heavy Rain,Heavy Rain
+2025-07-19,90.53418,Heavy Rain,Heavy Rain
+2025-07-20,106.091576,Heavy Rain,Heavy Rain
+2025-07-21,79.59442,Heavy Rain,Heavy Rain
+2025-07-22,89.1467,Heavy Rain,Heavy Rain
+2025-07-23,150.10738,Extreme Rain,Extreme Rain
+2025-07-24,100.637505,Heavy Rain,Heavy Rain
+2025-07-25,128.89221,Extreme Rain,Extreme Rain
+2025-07-26,212.74908,Extreme Rain,Extreme Rain
+2025-07-27,155.27762,Extreme Rain,Extreme Rain
+2025-07-28,58.65116,Moderate Rain,Moderate Rain
+2025-07-29,66.275925,Heavy Rain,Heavy Rain
+2025-07-30,65.6726,Heavy Rain,Heavy Rain
+2025-07-31,31.784245,Moderate Rain,Moderate Rain
+2025-08-01,27.377033,Moderate Rain,Moderate Rain
+2025-08-02,31.461218,Moderate Rain,Moderate Rain
+2025-08-03,46.474655,Moderate Rain,Moderate Rain
+2025-08-04,24.95275,Moderate Rain,Moderate Rain
+2025-08-05,22.927681,Moderate Rain,Moderate Rain
+2025-08-06,129.5424,Extreme Rain,Extreme Rain
+2025-08-07,42.215374,Moderate Rain,Moderate Rain
+2025-08-08,39.3987,Moderate Rain,Moderate Rain
+2025-08-09,101.02162,Heavy Rain,Heavy Rain
+2025-08-10,63.708874,Moderate Rain,Moderate Rain
+2025-08-11,58.910057,Moderate Rain,Moderate Rain
+2025-08-12,32.117737,Moderate Rain,Moderate Rain
+2025-08-13,54.78497,Moderate Rain,Moderate Rain
+2025-08-14,201.94524,Extreme Rain,Extreme Rain
+2025-08-15,174.4825,Extreme Rain,Extreme Rain
+2025-08-16,187.16911,Extreme Rain,Extreme Rain
+2025-08-17,182.94594,Extreme Rain,Extreme Rain
+2025-08-18,176.55481,Extreme Rain,Extreme Rain
+2025-08-19,250.87856,Extreme Rain,Extreme Rain
+2025-08-20,367.73267,Extreme Rain,Extreme Rain
+2025-08-21,196.21996,Extreme Rain,Extreme Rain
+2025-08-22,69.28056,Heavy Rain,Heavy Rain
+2025-08-23,64.92366,Heavy Rain,Heavy Rain
+2025-08-24,70.55461,Heavy Rain,Heavy Rain
+2025-08-25,59.649326,Moderate Rain,Moderate Rain
+2025-08-26,79.78912,Heavy Rain,Heavy Rain
+2025-08-27,163.85464,Extreme Rain,Extreme Rain
+2025-08-28,187.38977,Extreme Rain,Extreme Rain
+2025-08-29,72.23146,Heavy Rain,Heavy Rain
+2025-08-30,109.89671,Heavy Rain,Heavy Rain
+2025-08-31,54.8285,Moderate Rain,Moderate Rain
+2025-09-01,66.73659,Heavy Rain,Heavy Rain
+2025-09-02,82.49517,Heavy Rain,Heavy Rain
+2025-09-03,78.26707,Heavy Rain,Heavy Rain
+2025-09-04,32.613308,Moderate Rain,Moderate Rain
+2025-09-05,84.251274,Heavy Rain,Heavy Rain
+2025-09-06,115.07924,Heavy Rain,Heavy Rain
+2025-09-07,218.45291,Extreme Rain,Extreme Rain
+2025-09-08,91.32385,Heavy Rain,Heavy Rain
+2025-09-09,19.91553,Moderate Rain,Moderate Rain
+2025-09-10,4.231577,Light Rain,Moderate Rain
+2025-09-11,29.073553,Moderate Rain,Moderate Rain
+2025-09-12,19.517473,Moderate Rain,Moderate Rain
+2025-09-13,57.82723,Moderate Rain,Moderate Rain
+2025-09-14,193.34566,Extreme Rain,Extreme Rain
+2025-09-15,164.07678,Extreme Rain,Extreme Rain
+2025-09-16,89.16941,Heavy Rain,Heavy Rain
+2025-09-17,81.77586,Heavy Rain,Heavy Rain
+2025-09-18,59.404778,Moderate Rain,Moderate Rain
+2025-09-19,95.22934,Heavy Rain,Heavy Rain
+2025-09-20,53.712822,Moderate Rain,Moderate Rain
+2025-09-21,60.369602,Moderate Rain,Moderate Rain
+2025-09-22,192.77498,Extreme Rain,Extreme Rain
+2025-09-23,132.502,Extreme Rain,Extreme Rain
+2025-09-24,92.220024,Heavy Rain,Heavy Rain
+2025-09-25,22.276062,Moderate Rain,Moderate Rain
+2025-09-26,22.104214,Moderate Rain,Moderate Rain
+2025-09-27,81.37023,Heavy Rain,Heavy Rain
+2025-09-28,169.07768,Extreme Rain,Extreme Rain
+2025-09-29,212.49094,Extreme Rain,Extreme Rain
+2025-09-30,37.05304,Moderate Rain,Moderate Rain
+2025-10-01,73.5356,Heavy Rain,Heavy Rain
+2025-10-02,53.39725,Moderate Rain,Moderate Rain
+2025-10-03,66.97512,Heavy Rain,Heavy Rain
+2025-10-04,26.749949,Moderate Rain,Moderate Rain
+2025-10-05,55.466194,Moderate Rain,Moderate Rain
+2025-10-06,19.952276,Moderate Rain,Moderate Rain
+2025-10-07,32.083023,Moderate Rain,Moderate Rain
+2025-10-08,34.660336,Moderate Rain,Moderate Rain
+2025-10-09,43.662136,Moderate Rain,Moderate Rain
+2025-10-10,26.142515,Moderate Rain,Moderate Rain
+2025-10-11,35.44163,Moderate Rain,Moderate Rain
+2025-10-12,12.181047,Light Rain,Light Rain
+2025-10-13,0.0,Dry,Dry
+2025-10-14,0.0,Dry,Dry
+2025-10-15,6.6199155,Light Rain,Light Rain
+2025-10-16,29.398153,Moderate Rain,Moderate Rain
+2025-10-17,35.58385,Moderate Rain,Moderate Rain
+2025-10-18,1.9477262,Light Rain,Light Rain
+2025-10-19,14.012186,Light Rain,Light Rain
+2025-10-20,50.148266,Moderate Rain,Moderate Rain
+2025-10-21,21.040966,Moderate Rain,Moderate Rain
+2025-10-22,29.140995,Moderate Rain,Moderate Rain
+2025-10-23,24.585588,Moderate Rain,Moderate Rain
+2025-10-24,64.419754,Moderate Rain,Moderate Rain
+2025-10-25,132.79227,Extreme Rain,Extreme Rain
+2025-10-26,90.14132,Heavy Rain,Heavy Rain
+2025-10-27,108.45289,Heavy Rain,Heavy Rain
+2025-10-28,57.119205,Moderate Rain,Moderate Rain
+2025-10-29,41.629795,Moderate Rain,Moderate Rain
+2025-10-30,115.26862,Heavy Rain,Heavy Rain
+2025-10-31,44.55752,Moderate Rain,Moderate Rain
+2025-11-01,108.32718,Heavy Rain,Heavy Rain
+2025-11-02,75.07491,Heavy Rain,Heavy Rain
+2025-11-03,85.42475,Heavy Rain,Heavy Rain
+2025-11-04,25.07219,Moderate Rain,Moderate Rain
+2025-11-05,6.5351224,Light Rain,Light Rain
+2025-11-06,2.3001015,Light Rain,Light Rain
+2025-11-07,35.6991,Moderate Rain,Moderate Rain
+2025-11-08,0.5195662,Light Rain,Light Rain
+2025-11-09,0.0,Dry,Dry
+2025-11-10,0.26457185,Light Rain,Light Rain
+2025-11-11,0.0,Dry,Dry
+2025-11-12,0.0,Dry,Dry
+2025-11-13,0.0,Dry,Dry
+2025-11-14,0.0,Dry,Dry
+2025-11-15,0.0,Dry,Dry
+2025-11-16,0.0,Dry,Dry
+2025-11-17,0.0,Dry,Dry
+2025-11-18,0.0,Dry,Dry
+2025-11-19,0.0,Dry,Dry
+2025-11-20,0.0,Dry,Dry
+2025-11-21,0.0,Dry,Dry
+2025-11-22,0.0,Dry,Dry
+2025-11-23,0.0,Dry,Dry
+2025-11-24,0.0,Dry,Dry
+2025-11-25,5.3316617,Light Rain,Light Rain
+2025-11-26,0.0,Dry,Dry
+2025-11-27,0.0,Dry,Dry
+2025-11-28,0.0,Dry,Dry
+2025-11-29,0.0,Dry,Dry
+2025-11-30,0.0,Dry,Dry
+2025-12-01,0.0,Dry,Dry
+2025-12-02,0.0,Dry,Dry
+2025-12-03,0.0,Dry,Dry
+2025-12-04,0.0,Dry,Dry
+2025-12-05,0.5774305,Light Rain,Light Rain
+2025-12-06,0.0,Dry,Dry
+2025-12-07,0.0,Dry,Dry
+2025-12-08,0.0,Dry,Dry
+2025-12-09,0.0,Dry,Dry
+2025-12-10,0.0,Dry,Dry
+2025-12-11,0.0,Dry,Dry
+2025-12-12,0.0,Dry,Dry
+2025-12-13,0.0,Dry,Dry
+2025-12-14,0.0,Dry,Dry
+2025-12-15,0.0,Dry,Dry
+2025-12-16,0.0,Dry,Dry
+2025-12-17,0.0,Dry,Dry
+2025-12-18,0.0,Dry,Dry
+2025-12-19,0.0,Dry,Dry
+2025-12-20,0.0,Dry,Dry
+2025-12-21,0.0,Dry,Dry
+2025-12-22,0.0,Dry,Dry
+2025-12-23,0.0,Dry,Dry
+2025-12-24,0.0,Dry,Dry
+2025-12-25,0.0,Dry,Dry
+2025-12-26,0.0,Dry,Dry
+2025-12-27,0.0,Dry,Dry
+2025-12-28,0.0,Dry,Dry
+2025-12-29,0.0,Dry,Dry
+2025-12-30,0.0,Dry,Dry

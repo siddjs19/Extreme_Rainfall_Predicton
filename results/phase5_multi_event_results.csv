@@ -1,0 +1,2 @@
+Model,Number of Features,Number of Classes,Accuracy,Macro F1 Score,Weighted F1 Score
+IMD + ERA5 Multi-Event Classifier,28,5,0.9862637362637363,0.9797726288215631,0.9861460443549996

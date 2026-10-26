@@ -1,0 +1,16 @@
+Feature,Importance
+monsoon,0.35109726
+rainfall_7day_sum,0.11634752
+rainfall_lag_1,0.11189489
+rainfall_3day_mean,0.07049341
+rainfall_7day_mean,0.050450392
+rainfall_3day_sum,0.036764674
+day_of_year,0.035861988
+month,0.033755563
+rainy_days_last_7,0.03364088
+rainfall_lag_3,0.028350959
+pre_monsoon,0.026991915
+rainfall_lag_2,0.02691758
+post_monsoon,0.026396671
+rainfall_7day_max,0.026037926
+rainfall_lag_7,0.024998397
